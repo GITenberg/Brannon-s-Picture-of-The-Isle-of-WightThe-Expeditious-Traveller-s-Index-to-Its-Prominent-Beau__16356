@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6653'
     url: http://www.gutenberg.org/2009/agents/6653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16356#Brannon-s-Picture-of-The-Isle-of-WightThe-Expeditious-Traveller-s-Index-to-Its-Prominent-Beau_
 gutenberg_issued: '2005-07-24'
 gutenberg_type: Text
 identifiers:
